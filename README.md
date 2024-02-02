@@ -1,20 +1,6 @@
 # causight
-<<<<<<< HEAD
 
-capstone cau sight project
+본 자료는 2023 중앙대학교 캡스톤 디자인 경진대회에서 우승상을 수상한
+"시각장애인을 위한 길찾기 보조 어플, CAUSIGHT"의 flutter 프로젝트 내용을 담고 있습니다.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-this flutter project is for capstone chungang univ.
->>>>>>> 89f153a9c717e303a24578eeef80390157dccd14
+![image](https://github.com/sodaakim/causight/assets/83997634/ef1deb1b-16da-4089-b415-9f24b3b0afa0)
