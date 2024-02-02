@@ -1,4 +1,5 @@
 # causight
+<<<<<<< HEAD
 
 capstone cau sight project
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+this flutter project is for capstone chungang univ.
+>>>>>>> 89f153a9c717e303a24578eeef80390157dccd14
