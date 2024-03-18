@@ -20,7 +20,7 @@ CAUSIGHT는 시각장애인을 위한 길찾기 보조 어플리케이션으로,
 
 1. 본 프로젝트의 GitHub 저장소를 클론합니다.
    ```
-   git clone https://github.com/your-repository/CAUSIGHT.git
+   git clone https://github.com/sodaakim/Flutter-Causight.git
    ```
 2. Flutter 환경을 설정합니다. Flutter 공식 문서(https://flutter.dev/docs/get-started/install)를 참조하여 환경을 설정해주세요.
 3. 의존성 패키지를 설치합니다.
